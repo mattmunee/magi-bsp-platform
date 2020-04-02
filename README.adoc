@@ -15,7 +15,7 @@ Download the BSP source:
 $: PATH=${PATH}:~/bin
 $: mkdir ~/magi-yocto
 $: cd ~/magi-yocto
-$: repo init -u https://github.com/mattmunee/variscite-bsp-platform.git -b thud
+$: repo init -u https://github.com/mattmunee/magi-bsp-platform.git -b thud
 $: repo sync -j4
 
 At the end of the commands you have every metadata you need to start work with.
